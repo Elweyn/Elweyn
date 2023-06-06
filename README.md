@@ -39,23 +39,14 @@ and take action to solve them or to find other opportunities that also solves th
 - I am the man in the shadows that tries to mediate between the team and the management;
 - I have to create a nice flow in a Project if I see that people struggle I need to help them;
 - I have to put up rules so that we can work in a nice way.
-
-
-The Rules as simple we define who does which task, Client, Project Manager, Team, Scrum Master, Management, Support, User;
-
-Client are the persons that has an Idea and want it to be done;
-
-Project Owner are the persons that creates the great themes that have to be done;
-
-Team are the Frontend-, Backend-, DevOp- and Test-Engineers;
-
-Scrum Master are the persons that optimize the team dynamics;
-
-Management are the Money administrators of the Project;
-
-Support are the persons that interact with the User of the Product;
-
-Everyone else is a User. 
+  - The Rules as simple we define who does which task, Client, Project Manager, Team, Scrum Master, Management, Support, User;
+  - Client are the persons that has an Idea and want it to be done;
+  - Project Owner are the persons that creates the great themes that have to be done;
+  - Team are the Frontend-, Backend-, DevOp- and Test-Engineers;
+  - Scrum Master are the persons that optimize the team dynamics;
+  - Management are the Money administrators of the Project;
+  - Support are the persons that interact with the User of the Product;
+  - Everyone else is a User. 
 
 
 In the project [Gradido](https://github.com/gradido/gradido/) an OpenSource time exchange platform;
