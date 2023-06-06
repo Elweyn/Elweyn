@@ -26,13 +26,7 @@ Hi there:
 - I need to check if the developed solution does what was expected.
 
 
-In the project [Ocelot-Social](https://github.com/Ocelot-Social-Community/Ocelot-Social/) an OpenSource social media platform;
-
-this platform permits to create articles or events for your community;
-
-the purpose is so that you can share with your community the problems you encounter;
-
-and take action to solve them or to find other opportunities that also solves them.
+In the project [Ocelot-Social](https://github.com/Ocelot-Social-Community/Ocelot-Social/)
 
 ### Scrum Master (@Karoma_Trzebiatowsky)
 
@@ -49,13 +43,7 @@ and take action to solve them or to find other opportunities that also solves th
   - Everyone else is a User. 
 
 
-In the project [Gradido](https://github.com/gradido/gradido/) an OpenSource time exchange platform;
-
-This platform permits it's community to create it's own time exchange currency;
-
-The purpose is to permit the exchange in between you community;
-
-And we work now to permit multiple communities to also exchange some currencies.
+In the project [Gradido](https://github.com/gradido/gradido/)
 
 ### Developer Teacher (@Aniri_Dubrunfaut)
 
@@ -85,11 +73,19 @@ I worked for the Deutsche See GmbH where I helped them to maintain and develop a
 
 Since 2019 I work on OpenSource Softwares:
 
-- [Ocelot-Social](https://www.ocelot.social/) - previously known as [Human Connection](https://human-connection.org/) a social media platform to get people in action.
+- [Ocelot-Social](https://www.ocelot.social/) - previously known as [Human Connection](https://human-connection.org/):
+  - an OpenSource social media platform to get people in action;
+  - this platform permits to create articles or events for your community;
+  - the purpose is so that you can share with your community the problems you encounter;
+  - and take action to solve them or to find other opportunities that also solves them.
 
-- [Gradido](https://gradido.net/de/) a lifetime exchange system that has degressiv quotient for the created values.
+- [Gradido](https://gradido.net/de/) 
+  - an OpenSource time exchange platform, that has degressiv quotient for the created values;
+  - this platform permits it's community to create it's own time exchange currency;
+  - the purpose is to permit the exchange in between you community;
+  - and we work now to permit multiple communities to also exchange some currencies.
 
-- Some small websites & shops:
+- Some small SelfHosted websites (WordPress) & shops (Shopware):
 
   - [Paul und Anna](https://www.paulundanna.com/)
   - [NovoInox](https://www.novoinox.de/)
@@ -97,30 +93,23 @@ Since 2019 I work on OpenSource Softwares:
 
 ## Early life
 
-Born in Germany in the beautiful city of Hamburg and raised in [La Font Blanche](https://www.lafontblanche.com/) near a village named Belvis in south France.
-
-So I speak both German, French and English 
-
-
-I did my baccalaureat in the French school system and studied Computer Science in Toulouse before moving back to Hamburg where I made an internship to become an Software Engineer.
-
-
-After this I worked for some years in different companies White Paper Media Ltd. - aka. [OktoPOS Solutions GmbH](https://www.oktopos.com/);
-
-there I worked on an Android Project that permits to order on a tablet that is used in different german restaurants;
-
-on a Java SE Project that permits to control point of sale systems through a cashier application;
-
-and on a TimeTracking application that permited to register on and off through an RFID Ship.
-
-
-Then I worked for the [Media Service Providing AG](https://mspag.com/); 
-
-where we have implemented and installed different Product Information Management systems for different great supermarket companies in Germany;
-
-the stacktrace here was more like XML, XSLT, XPath, some Java SE, a bit of Java EE and some DevOps tasks;
-
-here was the first time that I got in contact with the Phylosophie of SCRUM and it had me hoocked!
+- Born in Germany in the beautiful city of Hamburg; 
+- and raised in [La Font Blanche](https://www.lafontblanche.com/) near a village named Belvis in south France;
+- I speak German, French and English;
+- I understand some words of spannish and dutch;
+- I did my baccalaureat in the French school system;
+- and studied Computer Science in Toulouse; 
+- before moving back to Hamburg;
+- where I made an internship to become an Software Engineer.
+- After this I worked for some years in different companies;
+  - White Paper Media Ltd. - aka. [OktoPOS Solutions GmbH](https://www.oktopos.com/);
+    - there I worked on an Android Project that permits to order on a tablet that is used in different german restaurants;
+    - on a Java SE Project that permits to control point of sale systems through a cashier application;
+    - and on a TimeTracking application that permited to register on and off through an RFID Ship.
+  - Then I worked for the [Media Service Providing AG](https://mspag.com/); 
+    - where we have implemented and installed different Product Information Management systems for different great supermarket companies in Germany;
+    - the stacktrace here was more like XML, XSLT, XPath, some Java SE, a bit of Java EE and some DevOps tasks;
+    - here was the first time that I got in contact with the Phylosophie of SCRUM and it had me hoocked!
 
 ## C0nnect with me
 
