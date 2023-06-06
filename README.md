@@ -19,7 +19,7 @@ Hi there:
 
 ## Roles
 
-### Project Owner (@Elweyn_Heine)
+### Project Owner [@Elweyn_Heine](#about-me)
 
 - I am the man in the front I need to collect the ideas of everyone;
 - I need to write the ideas as epics and prepare the different steps;
@@ -29,7 +29,7 @@ Hi there:
 
 In the project [Ocelot-Social](https://github.com/Ocelot-Social-Community/Ocelot-Social/)
 
-### Scrum Master (@Karoma_Trzebiatowsky)
+### Scrum Master [@Karoma_Trzebiatowsky](#about-me)
 
 - I am the man in the shadows that tries to mediate between the team and the management;
 - I have to create a nice flow in a Project if I see that people struggle I need to help them;
@@ -46,7 +46,7 @@ In the project [Ocelot-Social](https://github.com/Ocelot-Social-Community/Ocelot
 
 In the project [Gradido](https://github.com/gradido/gradido/)
 
-### Developer Teacher (@Aniri_Dubrunfaut)
+### Developer Teacher [@Aniri_Dubrunfaut](#about-me)
 
 - I am the man that do the hard coding work;
 - I am the man wo creates some PRs;
@@ -59,13 +59,13 @@ In both projects I try to show other developers how I code through pair programm
 
 I need to work on my capacities in the Test Driven Development style.
 
-### Reiiki Master (@Kyermer_Heine)
+### Reiiki Master [@Kyermer_Heine](#about-me)
 
 - I am the man that heal people with my hands;
 - I am the man that makes me release my stress;
 - I am the man that sences if something is wrong.
 
-## Work
+## Work 
 
 Since 2017 I work as a freelance Software Developer. 
 
