@@ -4,7 +4,7 @@ Hi there:
 - I'm [Elweyn Heine](#project-owner-elweyn_heine) the German Writter;
 - aka [Karoma Trzebiatowsky](#scrum-master-karoma_trzebiatowsky) the Polish Demonist;
 - aka [Aniri Dubrunfaut](#developer-teacher-aniri_dubrunfaut) the French Hunter;
-- aka [Kyermer Heine](#reiiki-master-kyermer_heine) the Japanies Priest;
+- aka [Kyermer Heine](#reiiki-master-kyermer_heine) the Japanese Priest;
 - aka [HHeine - Software Entwicklung](#work) the German company name;
 - part of [busFaktor() e.V.](https://www.busfaktor.org/de) our German nonprofit association.
 
@@ -12,9 +12,10 @@ Hi there:
 
 - My passion is OpenSource Software and Decentralized Systems; 
 - when I am not working I like to do sports specialy Table Tennis;
-- and I like to read Mangas. Or look at some games;
-- when the time it permits I also like to play video games;
-- to finish I really love Reiiki and QiGong.
+- and I like to read Mangas;
+- when the time it permits I also like to play or watch video games;
+- to finish I really love to Eat Sushi, to Read Mangas, Reiiki and QiGong;
+- the music I listen is diverse going from Rap to Reggea.
 
 ## Roles
 
