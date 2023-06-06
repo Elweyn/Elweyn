@@ -5,7 +5,7 @@ Hi there:
 - aka [Karoma Trzebiatowsky](#scrum-master-karoma_trzebiatowsky) the Polish Demonist;
 - aka [Aniri Dubrunfaut](#developer-teacher-aniri_dubrunfaut) the French Hunter;
 - aka [Kyermer Heine](#reiiki-master-kyermer_heine) the Japanies Priest;
-- aka [HHeine - Software Entwicklung]() what is my German company name;
+- aka [HHeine - Software Entwicklung](#work) the German company name;
 - part of [busFaktor() e.V.](https://www.busfaktor.org/de) our German nonprofit association.
 
 ## My passion
