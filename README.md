@@ -11,14 +11,10 @@ Hi there:
 ## My passion
 
 - My passion is OpenSource Software and Decentralized Systems; 
-
-when I am not working I like to do sports specialy Table Tennis;
-
-and I like to read Mangas. Or look at some games;
-
-when the time it permits I also like to play video games;
-
-to finish I really love Reiiki and QiGong.
+- when I am not working I like to do sports specialy Table Tennis;
+- and I like to read Mangas. Or look at some games;
+- when the time it permits I also like to play video games;
+- to finish I really love Reiiki and QiGong.
 
 ## Roles
 
