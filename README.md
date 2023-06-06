@@ -10,7 +10,7 @@ Hi there:
 
 ## My passion
 
-My passion is OpenSource Software and Decentralized Systems; 
+- My passion is OpenSource Software and Decentralized Systems; 
 
 when I am not working I like to do sports specialy Table Tennis;
 
@@ -24,13 +24,10 @@ to finish I really love Reiiki and QiGong.
 
 ### Project Owner (@Elweyn_Heine)
 
-I am the man in the front I need to collect the ideas of everyone;
-
-I need to write the ideas as epics and prepare the different steps;
-
-I need to priorities the tickets to arrive at the right time at the right place;
-
-I need to check if the developed solution does what was expected.
+- I am the man in the front I need to collect the ideas of everyone;
+- I need to write the ideas as epics and prepare the different steps;
+- I need to priorities the tickets to arrive at the right time at the right place;
+- I need to check if the developed solution does what was expected.
 
 
 In the project [Ocelot-Social](https://github.com/Ocelot-Social-Community/Ocelot-Social/) an OpenSource social media platform;
@@ -43,11 +40,9 @@ and take action to solve them or to find other opportunities that also solves th
 
 ### Scrum Master (@Karoma_Trzebiatowsky)
 
-I am the man in the shadows that tries to mediate between the team and the management;
-
-I have to create a nice flow in a Project if I see that people struggle I need to help them;
-
-I have to put up rules so that we can work in a nice way.
+- I am the man in the shadows that tries to mediate between the team and the management;
+- I have to create a nice flow in a Project if I see that people struggle I need to help them;
+- I have to put up rules so that we can work in a nice way.
 
 
 The Rules as simple we define who does which task, Client, Project Manager, Team, Scrum Master, Management, Support, User;
@@ -77,15 +72,11 @@ And we work now to permit multiple communities to also exchange some currencies.
 
 ### Developer Teacher (@Aniri_Dubrunfaut)
 
-I am the man that do the hard coding work;
-
-I am the man wo creates some PRs;
-
-I have to check if I got some negative code reviews;
-
-I have to check if my code is ready to be merged;
-
-I am the one that picks the next task on my the Kanban Board. 
+- I am the man that do the hard coding work;
+- I am the man wo creates some PRs;
+- I have to check if I got some negative code reviews;
+- I have to check if my code is ready to be merged;
+- I am the one that picks the next task on my the Kanban Board. 
 
 
 In both projects I try to show other developers how I code through pair programming; 
@@ -94,11 +85,9 @@ I need to work on my capacities in the Test Driven Development style.
 
 ### Reiiki Master (@Kyermer_Heine)
 
-I am the man that heal people with my hands;
-
-I am the man that makes me release my stress;
-
-I am the man that sences if something is wrong. 
+- I am the man that heal people with my hands;
+- I am the man that makes me release my stress;
+- I am the man that sences if something is wrong.
 
 ## Work
 
