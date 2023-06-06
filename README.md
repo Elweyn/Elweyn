@@ -2,7 +2,7 @@
 
 Hi there: 
 - I'm [Elweyn Heine](#project-owner-elweyn_heine) the German Writter;
-- aka [Karoma Trzebiatowsky]() the Polish Demonist;
+- aka [Karoma Trzebiatowsky](#scrum-master-karoma_trzebiatowsky) the Polish Demonist;
 - aka [Aniri Dubrunfaut]() the French Hunter;
 - aka [Kyermer Heine]() the Japanies Priest;
 - aka [HHeine - Software Entwicklung]() what is my German company name;
