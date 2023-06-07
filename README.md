@@ -12,8 +12,7 @@ Hi there:
 
 - My passion is OpenSource Software and Decentralized Systems; 
 - when I am not working I like to do sports specialy Table Tennis;
-- and I like to read Mangas;
-- when the time it permits I also like to play or watch video games;
+- when the time it permits I also like to play or watch Video Games;
 - to finish I really love to Eat Sushi, to Read Mangas, Reiiki and QiGong;
 - the music I listen is diverse going from Rap to Reggea.
 
