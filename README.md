@@ -88,7 +88,6 @@ Since 2019 I work on OpenSource Softwares:
 - Some small SelfHosted websites (WordPress) & shops (Shopware):
 
   - [Paul und Anna](https://www.paulundanna.com/)
-  - [NovoInox](https://www.novoinox.de/)
   - [La Font Blanche](https://www.lafontblanche.com/)
 
 ## Early life
