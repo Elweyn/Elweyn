@@ -112,4 +112,4 @@ Since 2019 I work on OpenSource Softwares:
 
 ## C0nnect with me
 
-<img align="left" alt="HHeine" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"> - <hannes@infinity.labs.ooo>
+<img align="left" alt="HHeine" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"> - <hannes.heine@it4c.dev>
